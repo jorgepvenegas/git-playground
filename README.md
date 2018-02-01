@@ -1,6 +1,6 @@
 # This is a readme
 
-## A very short readme.
+## Short readme
 
 ```javascript
 const hello = "Hello world!";
