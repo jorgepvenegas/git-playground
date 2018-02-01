@@ -13,8 +13,4 @@
 ```javascript
 const hello = "Hello world!";
 console.log(hello);
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> README.md updated, squashing commits.
