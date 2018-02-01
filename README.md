@@ -8,3 +8,7 @@
 
 ##### ... and a fifth one.
 
+```javascript
+const hello = "Hello world!";
+console.log(hello);
+```
